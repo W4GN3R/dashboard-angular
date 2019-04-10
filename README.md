@@ -1,2 +1,2 @@
-# dashboard-angular
-criando um dashboard angular para estudos do framework.
+# Jogo de Traduções 
+criando um jogo de tradução En/Pt em angular para estudos do framework.
